@@ -1,0 +1,271 @@
+{
+  "frames": {
+    "1.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 362,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 161,
+        "w": 362,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 684,
+        "h": 684
+      }
+    },
+    "2.png": {
+      "frame": {
+        "x": 724,
+        "y": 0,
+        "w": 362,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 161,
+        "w": 362,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 684,
+        "h": 684
+      }
+    },
+    "3.png": {
+      "frame": {
+        "x": 1086,
+        "y": 724,
+        "w": 362,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 161,
+        "w": 362,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 684,
+        "h": 684
+      }
+    },
+    "4.png": {
+      "frame": {
+        "x": 0,
+        "y": 362,
+        "w": 362,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 161,
+        "w": 362,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 684,
+        "h": 684
+      }
+    },
+    "5.png": {
+      "frame": {
+        "x": 1086,
+        "y": 0,
+        "w": 362,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 161,
+        "w": 362,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 684,
+        "h": 684
+      }
+    },
+    "6.png": {
+      "frame": {
+        "x": 724,
+        "y": 724,
+        "w": 362,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 161,
+        "w": 362,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 684,
+        "h": 684
+      }
+    },
+    "7.png": {
+      "frame": {
+        "x": 362,
+        "y": 0,
+        "w": 362,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 161,
+        "w": 362,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 684,
+        "h": 684
+      }
+    },
+    "8.png": {
+      "frame": {
+        "x": 724,
+        "y": 724,
+        "w": 362,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 161,
+        "w": 362,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 684,
+        "h": 684
+      }
+    },
+    "9.png": {
+      "frame": {
+        "x": 1086,
+        "y": 0,
+        "w": 362,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 161,
+        "w": 362,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 684,
+        "h": 684
+      }
+    },
+    "10.png": {
+      "frame": {
+        "x": 0,
+        "y": 362,
+        "w": 362,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 161,
+        "w": 362,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 684,
+        "h": 684
+      }
+    },
+    "11.png": {
+      "frame": {
+        "x": 362,
+        "y": 724,
+        "w": 362,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 161,
+        "w": 362,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 684,
+        "h": 684
+      }
+    },
+    "12.png": {
+      "frame": {
+        "x": 724,
+        "y": 0,
+        "w": 362,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 161,
+        "w": 362,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 684,
+        "h": 684
+      }
+    }
+  },
+  "animations": {
+    "coin": [
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png",
+      "5.png",
+      "6.png",
+      "7.png",
+      "8.png",
+      "9.png",
+      "10.png",
+      "11.png",
+      "12.png"
+    ]
+  },
+  "meta": {
+    "app": "ChatGPT exact Star Girl drop-in atlas",
+    "version": "1.0",
+    "image": "SD2_Coin.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1448,
+      "h": 1086
+    },
+    "scale": "2"
+  }
+}
