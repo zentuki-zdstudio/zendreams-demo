@@ -1,0 +1,7 @@
+{
+  "sourceCommit": "57a1596a9c702201c7b28d0264e0cd5d9fc6b55a",
+  "builtAt": "2026-10-28T12:24:29.806Z",
+  "runtimeSha256": "c0c482ecc32771ac3cc0b43c9656a4fea9526c1fd9e14e2b869ede21ca3f533e",
+  "compression": "gzip; byte-identical runtime",
+  "localDemo": true
+}

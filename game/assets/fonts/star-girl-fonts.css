@@ -1,0 +1,34 @@
+/* Lexend: original Google Fonts/OFL file. Currency support: documented OFL subset.
+ * Relative URLs keep every face inside the deployed game/version directory.
+ * proxima-nova is a compatibility alias to authorized Lexend, not Adobe media.
+ */
+@font-face {
+    font-family: 'Lexend';
+    src: url('./lexend/Lexend-variable.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Lexend';
+    src: url('./noto-sans/SGSI-Currency-Support.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: block;
+    unicode-range: U+20A8, U+20AA;
+}
+@font-face {
+    font-family: 'proxima-nova';
+    src: url('./lexend/Lexend-variable.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: block;
+}
+@font-face {
+    font-family: 'proxima-nova';
+    src: url('./noto-sans/SGSI-Currency-Support.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: block;
+    unicode-range: U+20A8, U+20AA;
+}
